@@ -14,7 +14,7 @@ const date = local_now()
 </script>
 
 <template>
-  <!-- Date in local time yyyy/mm/dd  -->
+  <!-- Date in local time yyyy/mm/dd -->
   <!-- now: 2024/10/25 -->
   <p>now: {{ date }}</p>
 </template>
