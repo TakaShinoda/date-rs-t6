@@ -1,5 +1,8 @@
 # date-rs-t6
 
+![NPM](https://img.shields.io/npm/l/date-rs-t6)
+![npm](https://img.shields.io/npm/v/date-rs-t6)
+
 ## Install
 
 ```
