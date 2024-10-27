@@ -13,12 +13,12 @@ npm i date-rs-t6
 
 ```vue
 <script setup lang="ts">
-import { local_now } from 'date-rs-t6'
+import { today } from 'date-rs-t6'
 </script>
 
 <template>
   <!-- Date in local time yyyy/mm/dd -->
-  <!-- now: 2024/10/25 -->
-  <p>now: {{ local_now() }}</p>
+  <!--Today: 2024/10/25 -->
+  <p>Today: {{ today() }}</p>
 </template>
 ```
