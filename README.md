@@ -19,8 +19,7 @@ import { today } from 'date-rs-t6'
 </script>
 
 <template>
-  <!-- Date in local time yyyy/mm/dd -->
-  <!--Today: 2024/10/25 -->
+  <!--Today: 2024/10/25（金） -->
   <p>Today: {{ today() }}</p>
 </template>
 ```
